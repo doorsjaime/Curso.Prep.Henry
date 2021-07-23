@@ -1,0 +1,7 @@
+Variables: Son formas de almacenar algo (algun valor, numero, nombre) que usaremos mas tarde
+Strings: son cadenas de caracteres encerrados entre comillas
+Funciones: es la forma en que vamos a utilizar las variables.
+Declaraciones if: tan simple como su traduccion "si..."
+Booleanos: estos valores son los que te van a decir si la funcion o las declaraciones que escribis son correctas o incorrectas, 1 o 0, true o false.
+
+
