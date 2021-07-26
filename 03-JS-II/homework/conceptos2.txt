@@ -1,0 +1,10 @@
+Conceptos 2
+# For: Es una funcion que sirve para ejecutar un proceso una y otra vez. En bucle. Hasta que luego muestra la condicion que le pusimos.
+
+#&&: Significa "y". Es un comparador entre dos argumnetos o expreciones, y devuelve un OK (true) si ambas expresiones son verdaderas.
+
+#||: Significa "o". Es un comparador entre dos argumnetos o expreciones, y devuelve un OK (true) si alguna de las dos expresiones es verdaderas.
+
+#! : Significa "NO". Es un operador que devolvera lo contrario a lo que se ponga.
+
+
