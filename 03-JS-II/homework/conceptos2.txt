@@ -5,6 +5,6 @@ Conceptos 2
 
 #||: Significa "o". Es un comparador entre dos argumnetos o expreciones, y devuelve un OK (true) si alguna de las dos expresiones es verdaderas.
 
-#! : Significa "NO". Es un operador que devolvera lo contrario a lo que se ponga.
+#! : Significa "NO". Es un operador que devolvera lo contrario a lo que se ponga..
 
 

@@ -209,6 +209,7 @@ function tablaDelSeis(){
         Tabla.push(6 * i)
   }
   return Tabla
+  
 }
 
 
