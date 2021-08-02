@@ -1,0 +1,69 @@
+
+h1, h3 , h4 {
+    color: blue;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 20px;
+    
+
+   
+}
+
+img {
+    width: 400px;
+}
+
+.thirDiv {
+    border: 2px solid black;
+    height: 600px; 
+    width: 500px; 
+    background-color: blanchedalmond;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+    
+.divClass {
+    
+    display: flex;
+    justify-content: center; 
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+
+
+.spanId{
+    display: inline-block;
+    margin: 50px;
+    font-size: 18px;
+   background-color: white;
+    align-items: center;
+    justify-content: center;
+}
+
+a { display:block;
+    padding: 5%;
+   text-align: center;
+   background-color: gray;
+   font-size: 30px;
+   border-radius: 20px;
+   margin-bottom: 20px;
+}
+
+.fondo{ 
+    background-image: url(https://img.freepik.com/vector-gratis/elementos-comida-dibujados-mano_1411-48.jpg?size=626&ext=jpg);
+	padding: 20px;
+    background-size:cover;
+    
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+li {
+    list-style: none;
+    font-size: 30px;
+    text-align: center;
+}
